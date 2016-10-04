@@ -1,0 +1,68 @@
+﻿{
+  "contents": [
+    {
+      "url": "index.html",
+      "hidden": true
+    },
+    {
+      "url": "p00.html",
+      "title": "第0部分", 
+      "thumb": "img/cover.jpg",  
+      "byline": "校史馆基本情况"
+    },
+    {
+      "url": "p01.html",
+      "title": "第1部分",
+      "thumb": "img/cover.jpg",
+      "byline": "清华学堂清华学校"
+    },
+    {
+      "url": "p02.html",
+      "title": "第2部分",
+      "thumb": "img/cover.jpg",
+      "byline": "国立清华大学"
+    },
+    {
+      "url": "p03.html",
+      "title": "第3部分",
+      "thumb": "img/cover.jpg",
+      "byline": "西南联大"
+    },
+    {
+      "url": "p04.html",
+      "title": "第4部分",
+      "thumb": "img/cover.jpg",
+      "byline": "复员后和解放"
+    },
+    {
+      "url": "p05.html",
+      "title": "第5部分",
+      "thumb": "img/cover.jpg",
+      "byline": "建国初期"
+    },
+    {
+      "url": "p06.html",
+      "title": "第6部分",
+      "thumb": "img/cover.jpg",
+      "byline": "多科性综合大学"
+    },
+    {
+      "url": "p065.html",
+      "title": "第6.5部分",
+      "thumb": "img/cover.jpg",
+      "byline": "多科性综合大学"
+    },
+    {
+      "url": "wechat.html",
+      "title": "欢迎关注我们",
+      "thumb": "img/ziyuan.jpg",
+      "byline": "紫苑学会"
+    },
+    {
+      "url": "p065.html",
+      "title": "欢迎关注我们2",
+      "thumb": "img/ziyuan.jpg",
+      "byline": "紫苑学会"
+    }
+  ]
+}

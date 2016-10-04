@@ -1,0 +1,82 @@
+﻿<!doctype html>
+<html lang="en" manifest="/zh-CN/cache.manifest?v=49">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title> 校史馆讲解词 </title>
+
+    <link rel="resources" href="resources.html" />
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="index" href="toc.json" type="application/json"/>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+
+    <script src="lib/mustache/mustache.js"></script>
+    <script src="lib/closure/goog/base.js"></script>
+
+    <script src="treesaver-0.10.0.js"></script>
+
+  </head>
+
+  <body>
+    <article>
+      <figure>
+        <div data-sizes="title fallback">
+          <h1><a href="index.html">校史馆讲解词15分钟版 </a></h1>
+          <h2> 紫苑学会 <a href="http://m.ziyuanv.cn/"> ziyuanv.cn </a> </h2>
+        </div>
+      </figure>
+
+
+      <div>
+        <h2><a href="p00.html"> 第0部分 </a></h2>
+        <p class="keeptogether thumb"><img src="img/cover.jpg"/></p>
+        <p> 校史馆基本情况 </p>
+      </div>
+
+      <div>
+        <h2><a href="p01.html"> 第1部分 </a></h2>
+        <p class="keeptogether thumb"><img src="img/cover.jpg"/></p>
+        <p> 清华学堂和清华学校时期 </p>
+      </div>
+      
+      <div>
+        <h2><a href="p02.html"> 第2部分 </a></h2>
+        <p class="keeptogether thumb"><img src="img/cover.jpg"/></p>
+        <p> 国立清华大学时期 </p>
+      </div>
+      
+      <div>
+        <h2><a href="p03.html"> 第3部分 </a></h2>
+        <p class="keeptogether thumb"><img src="img/cover.jpg"/></p>
+        <p> 西南联大时期 </p>
+      </div>
+      
+      <div>
+        <h2><a href="p04.html"> 第4部分 </a></h2>
+        <p class="keeptogether thumb"><img src="img/cover.jpg"/></p>
+        <p> 复员后的国立清华大学和清华园解放 </p>
+      </div>      
+      <div>
+        <h2><a href="p05.html"> 第5部分 </a></h2>
+        <p class="keeptogether thumb"><img src="img/cover.jpg"/></p>
+        <p> 建国初期的清华大学 </p>
+      </div>  
+      <div>
+        <h2><a href="p06.html"> 第6部分 </a></h2>
+        <p class="keeptogether thumb"><img src="img/cover.jpg"/></p>
+        <p> 多科性综合大学 </p>
+      </div>  
+       <div>
+        <h2><a href="p065.html"> 第6.5部分 </a></h2>
+        <p class="keeptogether thumb"><img src="img/cover.jpg"/></p>
+        <p> 院士和人文名家校友林 </p>
+      </div>       
+       <div>
+        <h2><a href="wechat.html"> 欢迎关注我们 </a></h2>
+        <p class="keeptogether thumb"><img src="img/cover.jpg"/></p>
+        <p> 紫苑学会介绍 </p>
+      </div>         
+      
+      
+    </article>
+  </body>
+</html>
